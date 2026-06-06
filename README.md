@@ -25,7 +25,7 @@ AtlasChat/
 
 #Ön Gereksinimler
 
-Projeyi çalıştırmadan önce aşağıdaki bileşenlerin kurulu olduğundan emin olun:
+Projeyi çalıştırmadan önce aşağıdaki bileşenlerin kurulu olmalıdır:
 
 * .NET 8 SDK
 * Ollama
